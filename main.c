@@ -52,7 +52,7 @@ void menu() {
 	printf("*****************************\n");
 }
 
-void test() {
+void start() {
 	int input = 0, status;
 	char c;
 
@@ -84,7 +84,7 @@ void test() {
 }
 
 int main() {
-	test();
+	start();
 
 	return 0;
 }
